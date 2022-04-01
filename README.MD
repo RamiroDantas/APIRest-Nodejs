@@ -27,7 +27,7 @@ const Estudante = require('/Users/Acer/Documents/backend/src/models/Estudante');
 
 ### `yarn dev`
 
-To realize tests from this API, use the url[https://localhost:6060](https://localhost:6060).
+To realize tests from this API, use the url: [https://localhost:6060](https://localhost:6060).
 We recommend [Postman](https://www.postman.com/downloads/) for testing.
 
 To start the server, run the command in the terminal:
@@ -36,11 +36,11 @@ yarn dev
 ```
 ### `tests`
 
-In this way, tests will be made using the url's:: [https://localhost:6060/register](https://localhost:6060/register) and [https://localhost:6060/login](https://localhost:6060/login).
+In this way, tests will be made using the url's: [https://localhost:6060/register](https://localhost:6060/register) and [https://localhost:6060/login](https://localhost:6060/login).
 
 **Note: Use `GET` whenever you are going to use the tests to login and `POST` to make tests in the register.**
 
-Understand what it is[API Rest](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
+Understand what it is [API Rest](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
 
 How to use [API Rest](https://br.sensedia.com/post/rest-api-understand-the-step-by-step-to-perform-tests)
 
