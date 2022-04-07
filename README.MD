@@ -29,7 +29,7 @@ const Estudante = require('/Users/Acer/Documents/backend/src/models/Estudante');
 
 To realize tests from this API, use the url: [https://localhost:6060](https://localhost:6060).
 
-We recommend [Postman](https://www.postman.com/downloads/) for testing.
+We recommend [Insomnia](https://insomnia.rest/download) for testing.
 
 To start the server, run the command in the terminal:
 ```
