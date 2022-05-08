@@ -5,7 +5,7 @@ const routes = require('./routes');
 
 const app = express();
 
-mongoose.connect('mongodb+srv://RamiroDK:1245012020@cluster0.g51jo.mongodb.net/ProjetoSite?retryWrites=true&w=majority', {
+mongoose.connect('Insira seu Banco de Dados aqui', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
