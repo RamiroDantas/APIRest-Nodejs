@@ -10,6 +10,14 @@ Use to run this API Rest in your project:
 
 Install in your computer the package manager [Yarn](https://yarnpkg.com/) so that you can run this API.
 
+### `Yarn Install`
+
+To avoid erros of the compilation in your project, executing this command in your terminal:
+
+```
+yarn install
+```
+
 ### Changes
 
 With the API inside your project some changes must be made so that don’t errors occur of executing, inside the folder `controllers` change the require of your two JS files. This require must contain the localization of `Estudante.js` file which is in folder **models**.
